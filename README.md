@@ -5,6 +5,17 @@
 > **Turning raw transactional data into actionable strategic insights.**
 > *A comprehensive Power BI solution featuring Advanced DAX, RFM Segmentation, and Geospatial Analysis.*
 
+## 📑 Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [🚀 Key Features & Modules](#-key-features--modules)
+  - [1. 📊 Recent Performance (Operational Health)](#1--recent-performance-operational-health)
+  - [2. 👥 Advanced Customer Intelligence (RFM & Lifecycle)](#2--advanced-customer-intelligence-rfm--lifecycle)
+  - [3. 🗺️ Store & Temporal Analysis](#3-️-store--temporal-analysis)
+  - [4. 🔍 Category Deep-Dive](#4--category-deep-dive)
+- [🛠️ Technical Highlights](#️-technical-highlights)
+
+---
+
 ## 📌 Project Overview
 This project demonstrates a full-cycle business intelligence solution for a retail chain. It moves beyond simple reporting to provide deep diagnostic analytics—from monitoring daily operational health to modeling complex customer lifecycles.
 
