@@ -14,8 +14,6 @@
   - [4. 🔍 Category Deep-Dive](#4--category-deep-dive)
 - [🛠️ Technical Highlights](#️-technical-highlights)
 
----
-
 ## 📌 Project Overview
 This project demonstrates a full-cycle business intelligence solution for a retail chain. It moves beyond simple reporting to provide deep diagnostic analytics—from monitoring daily operational health to modeling complex customer lifecycles.
 
